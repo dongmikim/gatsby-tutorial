@@ -1,0 +1,11 @@
+html {
+  background-color: lavenderblush;
+}
+
+button {
+  background: #000;
+  color: #fff;
+  border: 1px solid transparent;
+  border-radius: 2px;
+  padding: 4px 16px;
+}
